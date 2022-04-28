@@ -5,7 +5,6 @@ example.*
 
 #Por extension de archivo
 .example
-.test
 
 #Por carpeta o nombre
 .env
