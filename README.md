@@ -1,8 +1,6 @@
 # example-01
 Sigue las instrucciones
 
--Paso 1: Modificar el archivo .gitignore para ignorar los archivos con extension "test"
-
 -Paso 1: El ejercicio consiste en crear una rama basada en esta con su nombre
 
 -Paso 2: Modificar el archivo .gitignore para ignorar los archivos con extension "test"
