@@ -5,7 +5,11 @@ example.*
 
 #Por extension de archivo
 .example
+<<<<<<< HEAD
 *.test
+=======
+.test
+>>>>>>> ejercicio_02
 
 #Por carpeta o nombre
 .env

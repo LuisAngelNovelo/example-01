@@ -1,5 +1,5 @@
 # example-01
-Sigue las instrucciones
+Como continuacion del ejercicio_01
 
 -Paso 1: Modificar el archivo .gitignore para ignorar los archivos con extension "test"
 
@@ -16,3 +16,11 @@ Sigue las instrucciones
 -Paso 6 Modificar el archivo .gitignore para permitir que se suban archivos con extension "test"
 
 -Paso 7 Guardar el cambio en un stash
+
+-Paso 8: Mezclar la rama de algun compañero a la rama propia
+
+-Paso 9: Aplicar el stash creado en el ejercicio_01
+
+-Paso 10: Subir los cambios a la rama propia
+
+-Paso 10: Eliminar la rama con su nombre
