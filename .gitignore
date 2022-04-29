@@ -4,7 +4,7 @@
 example.*
 
 #Por extension de archivo
-.example
+*.example
 *.test
 
 #Por carpeta o nombre
